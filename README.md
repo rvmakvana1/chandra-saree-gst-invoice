@@ -3,7 +3,6 @@
 A lightweight, serverless, single-page web application designed specifically for Indian retail businesses to generate professional GST invoices instantly. Built entirely using AI (Claude Code) without the need for a backend or database.
 
 ## 🚀 Live Demo
-*(Add your GitHub Pages live link here later)*
 
 ## 📸 Project Screenshots
 
